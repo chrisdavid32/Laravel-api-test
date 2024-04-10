@@ -33,8 +33,9 @@ Run the database migrations (**Set the database connection in .env and create a 
 ```
     php artisan migrate
 ```
-Start the local development server
+Run the storage link command and Start the local development server
 ```
+    php artisan storage:link
     php artisan serve
 ```
 Here is the link to the Published POSTMAN documentation
