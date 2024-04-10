@@ -14,3 +14,8 @@ Clone the repository
 Switch to the repo folder
 
     cd Laravel-api-test
+
+install dependency
+```
+composer install
+```
